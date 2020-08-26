@@ -1,0 +1,29 @@
+[
+   {
+      "name": {
+         "first_name": "Ivan",
+         "second_name": "Ivanovich",
+         "surname": "Ivanov"
+      },
+      "age": "8",
+      "hobby": "football"
+   },
+   {
+      "name": {
+         "first_name": "Pyotr",
+         "second_name": "Petrovich",
+         "surname": "Petrov"
+      },
+      "age": "25",
+      "hobby": "chess"
+   },
+   {
+      "name": {
+         "first_name": "Nikolay",
+         "second_name": "Nikolayevich",
+         "surname": "Nikolayev"
+      },
+      "age": "45",
+      "hobby": "swimming"
+   }
+]
